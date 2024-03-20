@@ -1,0 +1,20 @@
+
+p
+java:S2293©"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÿ³‡
+a
+java:S1192*"FDefine a constant instead of duplicating this literal "Image" 3 times.(‚¨Öùÿÿÿÿ
+
+java:S1149¨"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".( ¥Ÿ¥şÿÿÿÿ
+|
+java:S1149©"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ÿ³‡
+|
+java:S1149Ù"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(Ú“Á
+H
+java:S6126d"2Replace this String concatenation with Text block.(´¡»î
+Q	java:S125p"<This block of commented-out lines of code should be removed.(©Ğ‰ø
+I
+java:S6126‚"2Replace this String concatenation with Text block.(¢ÎéÚ
+R	java:S125Œ"<This block of commented-out lines of code should be removed.(©Ğ‰ø
+R	java:S125Á"<This block of commented-out lines of code should be removed.(´Ìöû
+R	java:S125İ"<This block of commented-out lines of code should be removed.(ÿØÃË
+R	java:S125ß"<This block of commented-out lines of code should be removed.(ãäÕ’

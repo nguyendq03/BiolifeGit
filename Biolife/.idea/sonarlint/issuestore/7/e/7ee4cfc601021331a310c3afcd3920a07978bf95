@@ -1,0 +1,50 @@
+
+g	java:S117Ğ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( ÉÌ
+w
+java:S14885"\Immediately return this expression instead of assigning it to the temporary variable "cart".(ßöÕ¢üÿÿÿÿ
+|
+java:S1149È"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ë³şğ
+{
+java:S1149É"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ğœì
+
+java:S1149ù"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(îÖ›¨ıÿÿÿÿ
+T
+java:S6126"2Replace this String concatenation with Text block.(…—®šúÿÿÿÿ8×¨şõÕ1
+M
+java:S6126F"2Replace this String concatenation with Text block.(»éÅæşÿÿÿÿ
+Q	java:S125K"<This block of commented-out lines of code should be removed.(©Ğ‰ø
+M
+java:S6126V"2Replace this String concatenation with Text block.(ô¾²£şÿÿÿÿ
+>	java:S108_")Either remove or fill this block of code.(”ı¾
+G
+java:S6126f"2Replace this String concatenation with Text block.(ü‹¶
+F	java:S108…")Either remove or fill this block of code.(”ı¾8•ĞŸöÕ1
+W	java:S125‹"<This block of commented-out lines of code should be removed.(ã®™¬şÿÿÿÿ
+S
+java:S1854Í"6Remove this useless assignment to local variable "id".(Ç˜áF8Ú¦úõÕ1
+Q
+java:S1854Ï":Remove this useless assignment to local variable "userID".(ŞÚ¥É
+T
+java:S1854Ğ"=Remove this useless assignment to local variable "ProductID".( ÉÌ
+X
+java:S1854Ñ"<Remove this useless assignment to local variable "quantity".(­âà¿şÿÿÿÿ
+Z
+java:S1854Ò">Remove this useless assignment to local variable "totalPrice".(îñæ“ıÿÿÿÿ
+P
+java:S1854Ó"9Remove this useless assignment to local variable "items".(Ë¬‘…
+D
+java:S1481Í"'Remove this unused "id" local variable.(Ç˜áF8á¼÷õÕ1
+G
+java:S1481Î"+Remove this unused "userID" local variable.(·¨±íûÿÿÿÿ
+E
+java:S1481Ğ".Remove this unused "ProductID" local variable.( ÉÌ
+I
+java:S1481Ñ"-Remove this unused "quantity" local variable.(­âà¿şÿÿÿÿ
+K
+java:S1481Ò"/Remove this unused "totalPrice" local variable.(îñæ“ıÿÿÿÿ
+A
+java:S1481Ó"*Remove this unused "items" local variable.(Ë¬‘…
+R	java:S125Ô"<This block of commented-out lines of code should be removed.(ÎíÑú
+R	java:S125á"<This block of commented-out lines of code should be removed.(´Ìöû
+R	java:S125ı"<This block of commented-out lines of code should be removed.(ÿØÃË
+R	java:S125ÿ"<This block of commented-out lines of code should be removed.(ãäÕ’

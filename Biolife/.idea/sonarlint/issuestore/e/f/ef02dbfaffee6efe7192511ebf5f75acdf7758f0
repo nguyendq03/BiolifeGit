@@ -1,0 +1,15 @@
+
+t
+java:S2293M"YReplace the type specification in this constructor call with the diamond operator ("<>").(¶”„úÿÿÿÿ
+z
+java:S1149L"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".( ìT
+€
+java:S1149M"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(¶”„úÿÿÿÿ
+|
+java:S1149"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(¯ğÉò
+G
+java:S6126"2Replace this String concatenation with Text block.(üÊúR
+M
+java:S6126-"2Replace this String concatenation with Text block.(‰‘¼Èùÿÿÿÿ
+V	java:S125P"<This block of commented-out lines of code should be removed.(Æèå©ÿÿÿÿÿ
+P	java:S125c"<This block of commented-out lines of code should be removed.(ÓÑä*
